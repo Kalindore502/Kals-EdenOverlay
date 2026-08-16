@@ -1,2 +1,2 @@
-1.3.0
+1.4.1
 https://github.com/Kalindore502/Kals-EdenOverlay/releases/latest
