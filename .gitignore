@@ -1,0 +1,17 @@
+# Build output - never commit compiled binaries, only source
+bin/
+obj/
+publish/
+
+# Per-recipient watermarked builds and their password log - these are generated locally per
+# guildy via Make-GuildyZip.ps1 and should never end up in the repo
+GuildyZips/
+
+# User-specific IDE/editor files
+.vs/
+*.user
+*.suo
+
+# OS noise
+Thumbs.db
+.DS_Store
